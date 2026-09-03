@@ -1,0 +1,7 @@
+point_id,asset,metric,unit,quality_required,alarm_example,authority
+P01,INTAKE-A,active_power,kW,timestamp+quality,stale data,read only
+P02,INTAKE-B,supply_available,boolean,timestamp+quality,supply lost,read only
+P03,UPS-A,remaining_support,minutes,timestamp+quality,approved runtime threshold,read only
+P04,CHW-HEADER,supply_temperature,deg C,timestamp+quality,approved envelope,read only
+P05,H01,rack_inlet_temperature,deg C,timestamp+quality,30 C illustrative threshold,read only
+P06,CDU-H01,leak_detected,boolean,timestamp+quality,liquid leak,local protection separate

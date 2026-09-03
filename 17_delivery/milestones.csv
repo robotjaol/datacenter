@@ -1,0 +1,8 @@
+gate,planning_month,predecessor,exit_evidence
+G0 requirements,0,none,Owner brief and scope
+G1 feasibility,3,G0,Site/grid/commercial evidence
+G2 coordinated design,6,G1,Reviewed calculations/drawings/specifications
+G3 procurement release,7,G2,Approved packages/quotes/submittals
+G4 construction completion,18,G3,Inspections and system-completion records
+G5 integrated testing,20,G4,Witnessed tests and closed blockers
+G6 operations handover,21,G5,Training/as-builts/O&M acceptance

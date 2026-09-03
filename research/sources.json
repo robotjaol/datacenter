@@ -1,0 +1,152 @@
+[
+  {
+    "id": "S01",
+    "title": "Best Practices Guide for Energy-Efficient Data Center Design",
+    "publisher": "DOE/FEMP; Otto Van Geet and David Sickinger, NREL; LBNL host",
+    "publication": "2024-07",
+    "url": "https://datacenters.lbl.gov/sites/default/files/2025-07/best-practice-guide-data-center-design.pdf",
+    "access_notes": "Public PDF read; broad design and metric guidance; no local compliance claim.",
+    "used_for": "Environmental, airflow, cooling, electrical and metering boundaries; original implementation.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S02",
+    "title": "Data Center Tier Certification",
+    "publisher": "Uptime Institute",
+    "publication": "undated",
+    "url": "https://connect.uptimeinstitute.com/tier-certification",
+    "access_notes": "Public overview read; complete standards not reviewed.",
+    "used_for": "Concurrent maintainability objective; separate design, constructed facility and operations certification.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S03",
+    "title": "Achieving High Reliability, Energy Efficiency in Data Center Design, Operations",
+    "publisher": "ASHRAE",
+    "publication": "2021-03-23",
+    "url": "https://www.ashrae.org/news/ashraejournal/achieving-high-reliability-energy-efficiency-in-data-center-design-operations",
+    "access_notes": "Public article read; full fifth-edition book not accessed.",
+    "used_for": "Versioned environmental-guidance reference; no copied envelope table.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S04",
+    "title": "AI Data Center Framework: Tools, Standards, and Resources",
+    "publisher": "ASHRAE",
+    "publication": "undated",
+    "url": "https://www.ashrae.org/technical-resources/ai-data-center-framework/tools-standards-and-resources",
+    "access_notes": "Directory read; encyclopedia substantive content inaccessible.",
+    "used_for": "Recognize updated Datacom resource; confirm current equipment class at design gate.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S05",
+    "title": "Data Center Liquid Distribution Guidance and Reference Designs, Revision 0",
+    "publisher": "Open Compute Project",
+    "publication": "undated",
+    "url": "https://www.opencompute.org/documents/ocp-acf-reference-design-guidance-white-paper-pdf-1",
+    "access_notes": "Public PDF read; CC BY-SA 4.0; cite only, assets not redistributed.",
+    "used_for": "FWS/TCS interfaces, isolation, water quality and commissioning questions.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S06",
+    "title": "Colocation Facility Guidelines for Deployment of Open Racks v4.0",
+    "publisher": "Open Compute Project",
+    "publication": "2020-12-15",
+    "url": "https://www.opencompute.org/documents/colo-facility-guidelines-for-ocp-racks-v40",
+    "access_notes": "Public PDF read; inconsistent BY-SA/BY notices; no copied assets. Covers Open Rack v1/v2.",
+    "used_for": "Delivery routes, structural load and facility interface checklist.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S07",
+    "title": "Omniverse DSX Blueprint for AI Factories",
+    "publisher": "NVIDIA",
+    "publication": "live repository",
+    "url": "https://github.com/NVIDIA-Omniverse-blueprints/omniverse-dsx-blueprint-for-ai-factories",
+    "access_notes": "README reviewed; NVIDIA license terms; NGC assets separate; runtime not executed.",
+    "used_for": "Optional OpenUSD, electrical and CFD interoperability reference.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S08",
+    "title": "Data Center Design with Simscape",
+    "publisher": "MathWorks",
+    "publication": "2025-2026",
+    "url": "https://github.com/simscape/Data-Center-Simscape",
+    "access_notes": "BSD-3-Clause examples; MATLAB R2025b and listed commercial products required; not executed.",
+    "used_for": "Power-loss, ride-through and HVAC test-case inspiration.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S09",
+    "title": "Data Center Reference Design 100",
+    "publisher": "Schneider Electric",
+    "publication": "2026-03-14, version 3.0",
+    "url": "https://www.se.com/us/en/download/document/RD100DSR0_EN/",
+    "access_notes": "Official landing metadata read; PDF download unavailable; no redistribution license established.",
+    "used_for": "Architecture alternative: 3818 kW NAM chilled-water air/liquid reference; not a local design.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S10",
+    "title": "Data Center TradeOff Tools",
+    "publisher": "Schneider Electric",
+    "publication": "undated",
+    "url": "https://www.se.com/sg/en/work/solutions/data-centers-and-networks/trade-off-tools/",
+    "access_notes": "Catalog read; no calculator parity test or public source-code/API confirmed.",
+    "used_for": "CAPEX, energy, TCO and lifecycle comparison questions.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S11",
+    "title": "SustainDC: Benchmarking for Sustainable Data Center Control",
+    "publisher": "Avisek Naug et al.; Hewlett Packard Labs",
+    "publication": "2024; arXiv v5 2025-04-30",
+    "url": "https://arxiv.org/abs/2408.07841",
+    "access_notes": "Paper record and PDF read; paper CC BY-NC-ND 4.0; no adapted figures.",
+    "used_for": "Coupled weather, power, cooling and storage; reduced-order model limitations.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S12",
+    "title": "SustainDC code",
+    "publisher": "Hewlett Packard Enterprise",
+    "publication": "2024; live repository",
+    "url": "https://github.com/HewlettPackard/dc-rl",
+    "access_notes": "MIT code; separate scientific/ML dependency stack; not executed.",
+    "used_for": "Optional research integration; dataset terms remain separate.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S13",
+    "title": "Life Cycle Costing Manual for FEMP, NIST HB 135e2025",
+    "publisher": "Joshua Kneifel and David Webb; NIST",
+    "publication": "2025-08",
+    "url": "https://nvlpubs.nist.gov/nistpubs/hb/2025/NIST.HB.135e2025.pdf",
+    "access_notes": "Public PDF inspected; supersedes 2022. US program parameters not used as Indonesian market inputs.",
+    "used_for": "Time-zero capital, discounting, replacement and residual-value accounting concepts.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S14",
+    "title": "Cooling Water Efficiency Opportunities for Federal Data Centers",
+    "publisher": "US Department of Energy",
+    "publication": "2019-01-09",
+    "url": "https://www.energy.gov/cmei/femp/cooling-water-efficiency-opportunities-federal-data-centers",
+    "access_notes": "Public page read; historical efficiency examples not used as current benchmarks.",
+    "used_for": "PUE annual energy ratio and direct-site WUE units.",
+    "accessed": "2026-09-03"
+  },
+  {
+    "id": "S15",
+    "title": "Omniverse Licensing",
+    "publisher": "NVIDIA",
+    "publication": "2026-09-02",
+    "url": "https://docs.omniverse.nvidia.com/dsx/latest/common/NVIDIA_Omniverse_License_Agreement.html",
+    "access_notes": "Current licensing page reviewed; distribution remains governed by NVIDIA terms.",
+    "used_for": "Avoid labeling DSX permissive OSS or assuming a mandatory paid production subscription.",
+    "accessed": "2026-09-03"
+  }
+]

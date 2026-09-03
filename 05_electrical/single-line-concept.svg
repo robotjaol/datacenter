@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1000" height="400" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1000" height="400"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-400)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="10" y="310" width="315" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="51.547620144999996" y="343.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,687) scale(1,-1)">UTILITY INTERFACE A / 20 kV</text>
+			<text x="84.48055569" y="325.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,651) scale(1,-1)">Upstream independence unverified</text>
+			<path d="M 65,310 L 65,280 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="65 280, 61 288, 69 288" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<rect x="10" y="225" width="110" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="44.1098125" y="258.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,517) scale(1,-1)">MV-A</text>
+			<text x="39.59305558" y="240.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,481) scale(1,-1)">switchgear</text>
+			<rect x="155" y="225" width="170" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="179.14395188999998" y="258.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,517) scale(1,-1)">TX-A: 3 x 4 MVA</text>
+			<text x="199.16250011" y="240.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,481) scale(1,-1)">2 duty + 1 spare</text>
+			<rect x="360" y="225" width="130" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="406.7098125" y="258.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,517) scale(1,-1)">LV-A</text>
+			<text x="389.250000165" y="240.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,481) scale(1,-1)">400 V example</text>
+			<rect x="525" y="225" width="170" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,94%); fill-rule: evenodd;"/>
+			<text x="539.005711635" y="258.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,517) scale(1,-1)">UPS-A: 6 x 1.25 MW</text>
+			<text x="569.16250011" y="240.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,481) scale(1,-1)">5 duty + 1 spare</text>
+			<rect x="730" y="225" width="110" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="760.26404486" y="258.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,517) scale(1,-1)">PDU-A</text>
+			<text x="752.27500011" y="240.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,481) scale(1,-1)">rack interface</text>
+			<rect x="885" y="225" width="105" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="906.84178475" y="258.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,517) scale(1,-1)">RACK A</text>
+			<text x="914.873611105" y="240.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,481) scale(1,-1)">dual cord</text>
+			<path d="M 120,252 L 155,252 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="155 252, 147 248, 147 256" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 325,252 L 360,252 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="360 252, 352 248, 352 256" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 490,252 L 525,252 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="525 252, 517 248, 517 256" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 695,252 L 730,252 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="730 252, 722 248, 722 256" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 840,252 L 885,252 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="885 252, 877 248, 877 256" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<rect x="350" y="175" width="150" height="37" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,94%); fill-rule: evenodd;"/>
+			<text x="361.932047" y="189.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,379) scale(1,-1)">GEN-A: 4 x 3 MW</text>
+			<path d="M 425,212 L 425,225 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="425 225, 421 217, 429 217" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<rect x="10" y="160" width="315" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="51.88163889499998" y="193.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,387) scale(1,-1)">UTILITY INTERFACE B / 20 kV</text>
+			<text x="84.48055569" y="175.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,351) scale(1,-1)">Upstream independence unverified</text>
+			<path d="M 65,160 L 65,130 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="65 130, 61 138, 69 138" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<rect x="10" y="75" width="110" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="44.44383125" y="108.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,217) scale(1,-1)">MV-B</text>
+			<text x="39.59305558" y="90.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,181) scale(1,-1)">switchgear</text>
+			<rect x="155" y="75" width="170" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="179.47797064" y="108.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,217) scale(1,-1)">TX-B: 3 x 4 MVA</text>
+			<text x="199.16250011" y="90.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,181) scale(1,-1)">2 duty + 1 spare</text>
+			<rect x="360" y="75" width="130" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="407.04383125" y="108.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,217) scale(1,-1)">LV-B</text>
+			<text x="389.250000165" y="90.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,181) scale(1,-1)">400 V example</text>
+			<rect x="525" y="75" width="170" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,94%); fill-rule: evenodd;"/>
+			<text x="539.3397303849999" y="108.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,217) scale(1,-1)">UPS-B: 6 x 1.25 MW</text>
+			<text x="569.16250011" y="90.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,181) scale(1,-1)">5 duty + 1 spare</text>
+			<rect x="730" y="75" width="110" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="760.59806361" y="108.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,217) scale(1,-1)">PDU-B</text>
+			<text x="752.27500011" y="90.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,181) scale(1,-1)">rack interface</text>
+			<rect x="885" y="75" width="105" height="55" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="907.1758035" y="108.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,217) scale(1,-1)">RACK B</text>
+			<text x="914.873611105" y="90.5" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,181) scale(1,-1)">dual cord</text>
+			<path d="M 120,102 L 155,102 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="155 102, 147 98, 147 106" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 325,102 L 360,102 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="360 102, 352 98, 352 106" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 490,102 L 525,102 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="525 102, 517 98, 517 106" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 695,102 L 730,102 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="730 102, 722 98, 722 106" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 840,102 L 885,102 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="885 102, 877 98, 877 106" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<rect x="350" y="25" width="150" height="37" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,94%); fill-rule: evenodd;"/>
+			<text x="362.26606575" y="39.5" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,79) scale(1,-1)">GEN-B: 4 x 3 MW</text>
+			<path d="M 425,62 L 425,75 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="425 75, 421 67, 429 67" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<text x="12" y="8" style="font-family: LatinModern; font-size: 12px;fill: rgb(57%,25%,5%); stroke:none;" transform="translate(0,16) scale(1,-1)">Concept block SLD | breaker, protection, earthing, ties and auxiliary circuits require detailed design.</text>
+		</g>
+	</g>
+</svg>

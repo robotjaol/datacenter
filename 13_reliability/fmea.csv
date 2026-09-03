@@ -1,0 +1,9 @@
+id,failure,effect,detection,mitigation_to_review,owner,status
+F01,One UPS module unavailable,Reduced capacity in one path,UPS/EPMS status,N+1 full-path allowance; validate bypass isolation,Electrical,Capacity checked; isolation open
+F02,Common upstream supply event,Both normal paths lost,Intake voltage/event record,Generator/fuel independence and start sequence validation,Electrical,Open
+F03,Shared CHW header isolation,Multiple halls lose cooling,Flow/pressure/temperature,Sectioning and maintenance routing; thermal storage analysis,Mechanical,Open
+F04,Battery capacity degradation,Shortened ride-through,Capacity test/BMS,End-of-life allowance plus discharge curve verification,Electrical,Energy screen only
+F05,Stale telemetry appears healthy,Incorrect operator state inference,Timestamp/quality,UNKNOWN supervisory state and data-quality alarm,Controls,Offline case passed
+F06,Liquid leak in hall,Cooling loss/equipment impact,Leak detection,Approved local isolation/cause-effect and drainage,Mechanical,Offline alarm only
+F07,Concurrent maintenance A and B,Loss of effective redundancy,Permit/work coordination,Prohibited work combinations and independent review,Operations,Template only
+F08,Cooling restart slower than IT ride-through,Thermal excursion despite electrical continuity,Time-domain thermal traces,Thermal support and sequencing test,Mechanical,Open

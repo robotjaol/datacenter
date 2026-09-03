@@ -1,0 +1,397 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Facility scenario v1",
+  "description": "Cross-field constraints are additionally enforced by dcf.config.validate.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "it_kw",
+    "halls",
+    "racks_per_hall",
+    "rack_kw",
+    "design_ambient_c",
+    "ups_efficiency",
+    "distribution_efficiency",
+    "transformer_efficiency",
+    "power_factor",
+    "design_margin",
+    "ups_module_kw",
+    "transformer_unit_kva",
+    "generator_unit_kw",
+    "generator_derating",
+    "battery_minutes",
+    "battery_inverter_efficiency",
+    "battery_usable_fraction",
+    "battery_end_of_life_fraction",
+    "liquid_fraction",
+    "cop_at_30c",
+    "cop_degradation_per_c",
+    "minimum_cop",
+    "chiller_unit_kwth",
+    "cdu_unit_kwth",
+    "fan_fraction",
+    "pump_fraction",
+    "envelope_kw",
+    "other_facility_kw",
+    "water_delta_t_k",
+    "air_delta_t_k",
+    "mean_draw_fraction",
+    "draw_amplitude",
+    "weather_mean_c",
+    "weather_daily_amplitude_c",
+    "weather_seasonal_amplitude_c",
+    "electricity_usd_per_kwh",
+    "demand_usd_per_kw_month",
+    "grid_kgco2e_per_kwh",
+    "site_water_l_per_it_kwh",
+    "pv_kwp",
+    "pv_performance_ratio",
+    "bess_supported_kw",
+    "bess_hours",
+    "bess_discharge_efficiency",
+    "bess_usable_fraction",
+    "bess_end_of_life_fraction",
+    "base_capex_usd",
+    "contingency_fraction",
+    "fixed_opex_usd_year",
+    "maintenance_fraction",
+    "capacity_usd_kw_month",
+    "energy_recovery_fraction",
+    "discount_rate",
+    "escalation",
+    "replacement_year",
+    "replacement_usd",
+    "residual_fraction",
+    "path_unavailability",
+    "common_cause_unavailability",
+    "reliability_samples",
+    "seed",
+    "name",
+    "schema_version",
+    "occupancy"
+  ],
+  "properties": {
+    "it_kw": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 1000000
+    },
+    "halls": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 100
+    },
+    "racks_per_hall": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 1000
+    },
+    "rack_kw": {
+      "type": "number",
+      "minimum": 0.1,
+      "maximum": 1000
+    },
+    "design_ambient_c": {
+      "type": "number",
+      "minimum": -30,
+      "maximum": 60
+    },
+    "ups_efficiency": {
+      "type": "number",
+      "minimum": 0.5,
+      "maximum": 1
+    },
+    "distribution_efficiency": {
+      "type": "number",
+      "minimum": 0.5,
+      "maximum": 1
+    },
+    "transformer_efficiency": {
+      "type": "number",
+      "minimum": 0.5,
+      "maximum": 1
+    },
+    "power_factor": {
+      "type": "number",
+      "minimum": 0.5,
+      "maximum": 1
+    },
+    "design_margin": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "ups_module_kw": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 100000
+    },
+    "transformer_unit_kva": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 100000
+    },
+    "generator_unit_kw": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 100000
+    },
+    "generator_derating": {
+      "type": "number",
+      "minimum": 0.1,
+      "maximum": 1
+    },
+    "battery_minutes": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 240
+    },
+    "battery_inverter_efficiency": {
+      "type": "number",
+      "minimum": 0.1,
+      "maximum": 1
+    },
+    "battery_usable_fraction": {
+      "type": "number",
+      "minimum": 0.1,
+      "maximum": 1
+    },
+    "battery_end_of_life_fraction": {
+      "type": "number",
+      "minimum": 0.1,
+      "maximum": 1
+    },
+    "liquid_fraction": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "cop_at_30c": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 20
+    },
+    "cop_degradation_per_c": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "minimum_cop": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 10
+    },
+    "chiller_unit_kwth": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 100000
+    },
+    "cdu_unit_kwth": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 100000
+    },
+    "fan_fraction": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 0.5
+    },
+    "pump_fraction": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 0.5
+    },
+    "envelope_kw": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100000
+    },
+    "other_facility_kw": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100000
+    },
+    "water_delta_t_k": {
+      "type": "number",
+      "minimum": 0.5,
+      "maximum": 30
+    },
+    "air_delta_t_k": {
+      "type": "number",
+      "minimum": 0.5,
+      "maximum": 50
+    },
+    "mean_draw_fraction": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "draw_amplitude": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 0.5
+    },
+    "weather_mean_c": {
+      "type": "number",
+      "minimum": -30,
+      "maximum": 60
+    },
+    "weather_daily_amplitude_c": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 30
+    },
+    "weather_seasonal_amplitude_c": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 30
+    },
+    "electricity_usd_per_kwh": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 10
+    },
+    "demand_usd_per_kw_month": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1000
+    },
+    "grid_kgco2e_per_kwh": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "site_water_l_per_it_kwh": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 10
+    },
+    "pv_kwp": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "pv_performance_ratio": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "bess_supported_kw": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1000000
+    },
+    "bess_hours": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "bess_discharge_efficiency": {
+      "type": "number",
+      "minimum": 0.1,
+      "maximum": 1
+    },
+    "bess_usable_fraction": {
+      "type": "number",
+      "minimum": 0.1,
+      "maximum": 1
+    },
+    "bess_end_of_life_fraction": {
+      "type": "number",
+      "minimum": 0.1,
+      "maximum": 1
+    },
+    "base_capex_usd": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 1000000000000.0
+    },
+    "contingency_fraction": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "fixed_opex_usd_year": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1000000000000.0
+    },
+    "maintenance_fraction": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "capacity_usd_kw_month": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "energy_recovery_fraction": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "discount_rate": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "escalation": {
+      "type": "number",
+      "minimum": -0.1,
+      "maximum": 0.5
+    },
+    "replacement_year": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 50
+    },
+    "replacement_usd": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1000000000000.0
+    },
+    "residual_fraction": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "path_unavailability": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "common_cause_unavailability": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "reliability_samples": {
+      "type": "integer",
+      "minimum": 100,
+      "maximum": 1000000
+    },
+    "seed": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 2147483647
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "schema_version": {
+      "const": 1
+    },
+    "occupancy": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 50,
+      "items": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+      }
+    }
+  }
+}

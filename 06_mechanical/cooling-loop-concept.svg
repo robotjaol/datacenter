@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1000" height="350" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1000 350" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1000" height="350"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-350)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="20" y="135" width="200" height="80" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,94%); fill-rule: evenodd;"/>
+			<text x="57.60914693000001" y="181.0" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,362) scale(1,-1)">CHILLER PLANT</text>
+			<text x="66.375000275" y="163.0" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,326) scale(1,-1)">6 x 1.25 MWth; 5 + 1</text>
+			<rect x="290" y="135" width="180" height="80" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="312.39116741" y="181.0" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,362) scale(1,-1)">FWS / CHW LOOP</text>
+			<text x="323.39583348" y="163.0" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,326) scale(1,-1)">Shared header; 6 K rise</text>
+			<rect x="560" y="240" width="200" height="70" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="597.61818193" y="281.0" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,562) scale(1,-1)">AIR TERMINALS</text>
+			<text x="620.430555635" y="263.0" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,526) scale(1,-1)">3.5 MW IT heat</text>
+			<rect x="560" y="40" width="200" height="70" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="600.573883705" y="81.0" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,162) scale(1,-1)">CDUs / 4 HALLS</text>
+			<text x="606.66527801" y="63.0" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,126) scale(1,-1)">2 x 500 kWth per hall</text>
+			<rect x="835" y="240" width="145" height="70" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="882.881295175" y="281.0" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,562) scale(1,-1)">AIR IT</text>
+			<text x="884.72083348" y="263.0" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,526) scale(1,-1)">rack inlet</text>
+			<rect x="835" y="40" width="145" height="70" rx="5" ry="5" style="stroke: rgb(73%,80%,86%); stroke-linecap: butt; stroke-width: 1; fill: rgb(94%,96%,97%); fill-rule: evenodd;"/>
+			<text x="869.70983759" y="81.0" style="font-family: LatinModern-Bold; font-size: 13px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,162) scale(1,-1)">LIQUID IT</text>
+			<text x="875.72222232" y="63.0" style="font-family: LatinModern; font-size: 11px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,126) scale(1,-1)">1.5 MW heat</text>
+			<path d="M 220,175 L 290,175 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="290 175, 282 171, 282 179" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 470,175 L 515,175 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="515 175, 507 171, 507 179" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 515,75 L 515,275 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 515,275 L 560,275 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="560 275, 552 271, 552 279" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 515,75 L 560,75 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="560 75, 552 71, 552 79" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 760,275 L 835,275 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="835 275, 827 271, 827 279" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<path d="M 760,75 L 835,75 Z" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="835 75, 827 71, 827 79" style="stroke: rgb(28%,39%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(28%,39%,50%); fill-rule: evenodd;"/>
+			<text x="805" y="120" style="font-family: LatinModern; font-size: 12px;fill: rgb(28%,39%,50%); stroke:none;" transform="translate(0,240) scale(1,-1)">TCS boundary</text>
+			<text x="20" y="315" style="font-family: LatinModern-Bold; font-size: 18px;fill: rgb(6%,16%,26%); stroke:none;" transform="translate(0,630) scale(1,-1)">Facility cooling interfaces / conceptual supply direction</text>
+			<text x="20" y="15" style="font-family: LatinModern; font-size: 12px;fill: rgb(57%,25%,5%); stroke:none;" transform="translate(0,30) scale(1,-1)">Concept flow diagram | supply/return collapsed; isolation, hydraulics, chemistry and thermal ride-through remain open.</text>
+		</g>
+	</g>
+</svg>

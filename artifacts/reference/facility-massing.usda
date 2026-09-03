@@ -1,0 +1,1809 @@
+#usda 1.0
+(
+    defaultPrim = "Facility"
+    metersPerUnit = 1
+    upAxis = "Z"
+)
+def Xform "Facility"
+{
+    def Cube "H01_R001"
+    {
+        double size = 1
+        double3 xformOp:translate = (14.3, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R001"
+        custom double designKw = 25
+    }
+    def Cube "H01_R002"
+    {
+        double size = 1
+        double3 xformOp:translate = (15.5, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R002"
+        custom double designKw = 25
+    }
+    def Cube "H01_R003"
+    {
+        double size = 1
+        double3 xformOp:translate = (16.7, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R003"
+        custom double designKw = 25
+    }
+    def Cube "H01_R004"
+    {
+        double size = 1
+        double3 xformOp:translate = (17.900000000000002, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R004"
+        custom double designKw = 25
+    }
+    def Cube "H01_R005"
+    {
+        double size = 1
+        double3 xformOp:translate = (19.1, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R005"
+        custom double designKw = 25
+    }
+    def Cube "H01_R006"
+    {
+        double size = 1
+        double3 xformOp:translate = (20.3, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R006"
+        custom double designKw = 25
+    }
+    def Cube "H01_R007"
+    {
+        double size = 1
+        double3 xformOp:translate = (21.5, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R007"
+        custom double designKw = 25
+    }
+    def Cube "H01_R008"
+    {
+        double size = 1
+        double3 xformOp:translate = (22.7, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R008"
+        custom double designKw = 25
+    }
+    def Cube "H01_R009"
+    {
+        double size = 1
+        double3 xformOp:translate = (23.900000000000002, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R009"
+        custom double designKw = 25
+    }
+    def Cube "H01_R010"
+    {
+        double size = 1
+        double3 xformOp:translate = (25.099999999999998, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R010"
+        custom double designKw = 25
+    }
+    def Cube "H01_R011"
+    {
+        double size = 1
+        double3 xformOp:translate = (14.3, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R011"
+        custom double designKw = 25
+    }
+    def Cube "H01_R012"
+    {
+        double size = 1
+        double3 xformOp:translate = (15.5, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R012"
+        custom double designKw = 25
+    }
+    def Cube "H01_R013"
+    {
+        double size = 1
+        double3 xformOp:translate = (16.7, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R013"
+        custom double designKw = 25
+    }
+    def Cube "H01_R014"
+    {
+        double size = 1
+        double3 xformOp:translate = (17.900000000000002, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R014"
+        custom double designKw = 25
+    }
+    def Cube "H01_R015"
+    {
+        double size = 1
+        double3 xformOp:translate = (19.1, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R015"
+        custom double designKw = 25
+    }
+    def Cube "H01_R016"
+    {
+        double size = 1
+        double3 xformOp:translate = (20.3, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R016"
+        custom double designKw = 25
+    }
+    def Cube "H01_R017"
+    {
+        double size = 1
+        double3 xformOp:translate = (21.5, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R017"
+        custom double designKw = 25
+    }
+    def Cube "H01_R018"
+    {
+        double size = 1
+        double3 xformOp:translate = (22.7, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R018"
+        custom double designKw = 25
+    }
+    def Cube "H01_R019"
+    {
+        double size = 1
+        double3 xformOp:translate = (23.900000000000002, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R019"
+        custom double designKw = 25
+    }
+    def Cube "H01_R020"
+    {
+        double size = 1
+        double3 xformOp:translate = (25.099999999999998, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R020"
+        custom double designKw = 25
+    }
+    def Cube "H01_R021"
+    {
+        double size = 1
+        double3 xformOp:translate = (14.3, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R021"
+        custom double designKw = 25
+    }
+    def Cube "H01_R022"
+    {
+        double size = 1
+        double3 xformOp:translate = (15.5, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R022"
+        custom double designKw = 25
+    }
+    def Cube "H01_R023"
+    {
+        double size = 1
+        double3 xformOp:translate = (16.7, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R023"
+        custom double designKw = 25
+    }
+    def Cube "H01_R024"
+    {
+        double size = 1
+        double3 xformOp:translate = (17.900000000000002, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R024"
+        custom double designKw = 25
+    }
+    def Cube "H01_R025"
+    {
+        double size = 1
+        double3 xformOp:translate = (19.1, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R025"
+        custom double designKw = 25
+    }
+    def Cube "H01_R026"
+    {
+        double size = 1
+        double3 xformOp:translate = (20.3, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R026"
+        custom double designKw = 25
+    }
+    def Cube "H01_R027"
+    {
+        double size = 1
+        double3 xformOp:translate = (21.5, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R027"
+        custom double designKw = 25
+    }
+    def Cube "H01_R028"
+    {
+        double size = 1
+        double3 xformOp:translate = (22.7, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R028"
+        custom double designKw = 25
+    }
+    def Cube "H01_R029"
+    {
+        double size = 1
+        double3 xformOp:translate = (23.900000000000002, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R029"
+        custom double designKw = 25
+    }
+    def Cube "H01_R030"
+    {
+        double size = 1
+        double3 xformOp:translate = (25.099999999999998, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R030"
+        custom double designKw = 25
+    }
+    def Cube "H01_R031"
+    {
+        double size = 1
+        double3 xformOp:translate = (14.3, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R031"
+        custom double designKw = 25
+    }
+    def Cube "H01_R032"
+    {
+        double size = 1
+        double3 xformOp:translate = (15.5, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R032"
+        custom double designKw = 25
+    }
+    def Cube "H01_R033"
+    {
+        double size = 1
+        double3 xformOp:translate = (16.7, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R033"
+        custom double designKw = 25
+    }
+    def Cube "H01_R034"
+    {
+        double size = 1
+        double3 xformOp:translate = (17.900000000000002, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R034"
+        custom double designKw = 25
+    }
+    def Cube "H01_R035"
+    {
+        double size = 1
+        double3 xformOp:translate = (19.1, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R035"
+        custom double designKw = 25
+    }
+    def Cube "H01_R036"
+    {
+        double size = 1
+        double3 xformOp:translate = (20.3, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R036"
+        custom double designKw = 25
+    }
+    def Cube "H01_R037"
+    {
+        double size = 1
+        double3 xformOp:translate = (21.5, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R037"
+        custom double designKw = 25
+    }
+    def Cube "H01_R038"
+    {
+        double size = 1
+        double3 xformOp:translate = (22.7, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R038"
+        custom double designKw = 25
+    }
+    def Cube "H01_R039"
+    {
+        double size = 1
+        double3 xformOp:translate = (23.900000000000002, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R039"
+        custom double designKw = 25
+    }
+    def Cube "H01_R040"
+    {
+        double size = 1
+        double3 xformOp:translate = (25.099999999999998, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R040"
+        custom double designKw = 25
+    }
+    def Cube "H01_R041"
+    {
+        double size = 1
+        double3 xformOp:translate = (14.3, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R041"
+        custom double designKw = 25
+    }
+    def Cube "H01_R042"
+    {
+        double size = 1
+        double3 xformOp:translate = (15.5, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R042"
+        custom double designKw = 25
+    }
+    def Cube "H01_R043"
+    {
+        double size = 1
+        double3 xformOp:translate = (16.7, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R043"
+        custom double designKw = 25
+    }
+    def Cube "H01_R044"
+    {
+        double size = 1
+        double3 xformOp:translate = (17.900000000000002, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R044"
+        custom double designKw = 25
+    }
+    def Cube "H01_R045"
+    {
+        double size = 1
+        double3 xformOp:translate = (19.1, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R045"
+        custom double designKw = 25
+    }
+    def Cube "H01_R046"
+    {
+        double size = 1
+        double3 xformOp:translate = (20.3, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R046"
+        custom double designKw = 25
+    }
+    def Cube "H01_R047"
+    {
+        double size = 1
+        double3 xformOp:translate = (21.5, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R047"
+        custom double designKw = 25
+    }
+    def Cube "H01_R048"
+    {
+        double size = 1
+        double3 xformOp:translate = (22.7, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R048"
+        custom double designKw = 25
+    }
+    def Cube "H01_R049"
+    {
+        double size = 1
+        double3 xformOp:translate = (23.900000000000002, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R049"
+        custom double designKw = 25
+    }
+    def Cube "H01_R050"
+    {
+        double size = 1
+        double3 xformOp:translate = (25.099999999999998, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H01-R050"
+        custom double designKw = 25
+    }
+    def Cube "H02_R001"
+    {
+        double size = 1
+        double3 xformOp:translate = (42.3, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R001"
+        custom double designKw = 25
+    }
+    def Cube "H02_R002"
+    {
+        double size = 1
+        double3 xformOp:translate = (43.5, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R002"
+        custom double designKw = 25
+    }
+    def Cube "H02_R003"
+    {
+        double size = 1
+        double3 xformOp:translate = (44.699999999999996, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R003"
+        custom double designKw = 25
+    }
+    def Cube "H02_R004"
+    {
+        double size = 1
+        double3 xformOp:translate = (45.9, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R004"
+        custom double designKw = 25
+    }
+    def Cube "H02_R005"
+    {
+        double size = 1
+        double3 xformOp:translate = (47.099999999999994, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R005"
+        custom double designKw = 25
+    }
+    def Cube "H02_R006"
+    {
+        double size = 1
+        double3 xformOp:translate = (48.3, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R006"
+        custom double designKw = 25
+    }
+    def Cube "H02_R007"
+    {
+        double size = 1
+        double3 xformOp:translate = (49.5, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R007"
+        custom double designKw = 25
+    }
+    def Cube "H02_R008"
+    {
+        double size = 1
+        double3 xformOp:translate = (50.699999999999996, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R008"
+        custom double designKw = 25
+    }
+    def Cube "H02_R009"
+    {
+        double size = 1
+        double3 xformOp:translate = (51.9, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R009"
+        custom double designKw = 25
+    }
+    def Cube "H02_R010"
+    {
+        double size = 1
+        double3 xformOp:translate = (53.099999999999994, 14.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R010"
+        custom double designKw = 25
+    }
+    def Cube "H02_R011"
+    {
+        double size = 1
+        double3 xformOp:translate = (42.3, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R011"
+        custom double designKw = 25
+    }
+    def Cube "H02_R012"
+    {
+        double size = 1
+        double3 xformOp:translate = (43.5, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R012"
+        custom double designKw = 25
+    }
+    def Cube "H02_R013"
+    {
+        double size = 1
+        double3 xformOp:translate = (44.699999999999996, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R013"
+        custom double designKw = 25
+    }
+    def Cube "H02_R014"
+    {
+        double size = 1
+        double3 xformOp:translate = (45.9, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R014"
+        custom double designKw = 25
+    }
+    def Cube "H02_R015"
+    {
+        double size = 1
+        double3 xformOp:translate = (47.099999999999994, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R015"
+        custom double designKw = 25
+    }
+    def Cube "H02_R016"
+    {
+        double size = 1
+        double3 xformOp:translate = (48.3, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R016"
+        custom double designKw = 25
+    }
+    def Cube "H02_R017"
+    {
+        double size = 1
+        double3 xformOp:translate = (49.5, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R017"
+        custom double designKw = 25
+    }
+    def Cube "H02_R018"
+    {
+        double size = 1
+        double3 xformOp:translate = (50.699999999999996, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R018"
+        custom double designKw = 25
+    }
+    def Cube "H02_R019"
+    {
+        double size = 1
+        double3 xformOp:translate = (51.9, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R019"
+        custom double designKw = 25
+    }
+    def Cube "H02_R020"
+    {
+        double size = 1
+        double3 xformOp:translate = (53.099999999999994, 17.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R020"
+        custom double designKw = 25
+    }
+    def Cube "H02_R021"
+    {
+        double size = 1
+        double3 xformOp:translate = (42.3, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R021"
+        custom double designKw = 25
+    }
+    def Cube "H02_R022"
+    {
+        double size = 1
+        double3 xformOp:translate = (43.5, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R022"
+        custom double designKw = 25
+    }
+    def Cube "H02_R023"
+    {
+        double size = 1
+        double3 xformOp:translate = (44.699999999999996, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R023"
+        custom double designKw = 25
+    }
+    def Cube "H02_R024"
+    {
+        double size = 1
+        double3 xformOp:translate = (45.9, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R024"
+        custom double designKw = 25
+    }
+    def Cube "H02_R025"
+    {
+        double size = 1
+        double3 xformOp:translate = (47.099999999999994, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R025"
+        custom double designKw = 25
+    }
+    def Cube "H02_R026"
+    {
+        double size = 1
+        double3 xformOp:translate = (48.3, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R026"
+        custom double designKw = 25
+    }
+    def Cube "H02_R027"
+    {
+        double size = 1
+        double3 xformOp:translate = (49.5, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R027"
+        custom double designKw = 25
+    }
+    def Cube "H02_R028"
+    {
+        double size = 1
+        double3 xformOp:translate = (50.699999999999996, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R028"
+        custom double designKw = 25
+    }
+    def Cube "H02_R029"
+    {
+        double size = 1
+        double3 xformOp:translate = (51.9, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R029"
+        custom double designKw = 25
+    }
+    def Cube "H02_R030"
+    {
+        double size = 1
+        double3 xformOp:translate = (53.099999999999994, 20.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R030"
+        custom double designKw = 25
+    }
+    def Cube "H02_R031"
+    {
+        double size = 1
+        double3 xformOp:translate = (42.3, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R031"
+        custom double designKw = 25
+    }
+    def Cube "H02_R032"
+    {
+        double size = 1
+        double3 xformOp:translate = (43.5, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R032"
+        custom double designKw = 25
+    }
+    def Cube "H02_R033"
+    {
+        double size = 1
+        double3 xformOp:translate = (44.699999999999996, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R033"
+        custom double designKw = 25
+    }
+    def Cube "H02_R034"
+    {
+        double size = 1
+        double3 xformOp:translate = (45.9, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R034"
+        custom double designKw = 25
+    }
+    def Cube "H02_R035"
+    {
+        double size = 1
+        double3 xformOp:translate = (47.099999999999994, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R035"
+        custom double designKw = 25
+    }
+    def Cube "H02_R036"
+    {
+        double size = 1
+        double3 xformOp:translate = (48.3, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R036"
+        custom double designKw = 25
+    }
+    def Cube "H02_R037"
+    {
+        double size = 1
+        double3 xformOp:translate = (49.5, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R037"
+        custom double designKw = 25
+    }
+    def Cube "H02_R038"
+    {
+        double size = 1
+        double3 xformOp:translate = (50.699999999999996, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R038"
+        custom double designKw = 25
+    }
+    def Cube "H02_R039"
+    {
+        double size = 1
+        double3 xformOp:translate = (51.9, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R039"
+        custom double designKw = 25
+    }
+    def Cube "H02_R040"
+    {
+        double size = 1
+        double3 xformOp:translate = (53.099999999999994, 23.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R040"
+        custom double designKw = 25
+    }
+    def Cube "H02_R041"
+    {
+        double size = 1
+        double3 xformOp:translate = (42.3, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R041"
+        custom double designKw = 25
+    }
+    def Cube "H02_R042"
+    {
+        double size = 1
+        double3 xformOp:translate = (43.5, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R042"
+        custom double designKw = 25
+    }
+    def Cube "H02_R043"
+    {
+        double size = 1
+        double3 xformOp:translate = (44.699999999999996, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R043"
+        custom double designKw = 25
+    }
+    def Cube "H02_R044"
+    {
+        double size = 1
+        double3 xformOp:translate = (45.9, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R044"
+        custom double designKw = 25
+    }
+    def Cube "H02_R045"
+    {
+        double size = 1
+        double3 xformOp:translate = (47.099999999999994, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R045"
+        custom double designKw = 25
+    }
+    def Cube "H02_R046"
+    {
+        double size = 1
+        double3 xformOp:translate = (48.3, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R046"
+        custom double designKw = 25
+    }
+    def Cube "H02_R047"
+    {
+        double size = 1
+        double3 xformOp:translate = (49.5, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R047"
+        custom double designKw = 25
+    }
+    def Cube "H02_R048"
+    {
+        double size = 1
+        double3 xformOp:translate = (50.699999999999996, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R048"
+        custom double designKw = 25
+    }
+    def Cube "H02_R049"
+    {
+        double size = 1
+        double3 xformOp:translate = (51.9, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R049"
+        custom double designKw = 25
+    }
+    def Cube "H02_R050"
+    {
+        double size = 1
+        double3 xformOp:translate = (53.099999999999994, 26.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H02-R050"
+        custom double designKw = 25
+    }
+    def Cube "H03_R001"
+    {
+        double size = 1
+        double3 xformOp:translate = (14.3, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R001"
+        custom double designKw = 25
+    }
+    def Cube "H03_R002"
+    {
+        double size = 1
+        double3 xformOp:translate = (15.5, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R002"
+        custom double designKw = 25
+    }
+    def Cube "H03_R003"
+    {
+        double size = 1
+        double3 xformOp:translate = (16.7, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R003"
+        custom double designKw = 25
+    }
+    def Cube "H03_R004"
+    {
+        double size = 1
+        double3 xformOp:translate = (17.900000000000002, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R004"
+        custom double designKw = 25
+    }
+    def Cube "H03_R005"
+    {
+        double size = 1
+        double3 xformOp:translate = (19.1, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R005"
+        custom double designKw = 25
+    }
+    def Cube "H03_R006"
+    {
+        double size = 1
+        double3 xformOp:translate = (20.3, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R006"
+        custom double designKw = 25
+    }
+    def Cube "H03_R007"
+    {
+        double size = 1
+        double3 xformOp:translate = (21.5, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R007"
+        custom double designKw = 25
+    }
+    def Cube "H03_R008"
+    {
+        double size = 1
+        double3 xformOp:translate = (22.7, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R008"
+        custom double designKw = 25
+    }
+    def Cube "H03_R009"
+    {
+        double size = 1
+        double3 xformOp:translate = (23.900000000000002, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R009"
+        custom double designKw = 25
+    }
+    def Cube "H03_R010"
+    {
+        double size = 1
+        double3 xformOp:translate = (25.099999999999998, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R010"
+        custom double designKw = 25
+    }
+    def Cube "H03_R011"
+    {
+        double size = 1
+        double3 xformOp:translate = (14.3, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R011"
+        custom double designKw = 25
+    }
+    def Cube "H03_R012"
+    {
+        double size = 1
+        double3 xformOp:translate = (15.5, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R012"
+        custom double designKw = 25
+    }
+    def Cube "H03_R013"
+    {
+        double size = 1
+        double3 xformOp:translate = (16.7, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R013"
+        custom double designKw = 25
+    }
+    def Cube "H03_R014"
+    {
+        double size = 1
+        double3 xformOp:translate = (17.900000000000002, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R014"
+        custom double designKw = 25
+    }
+    def Cube "H03_R015"
+    {
+        double size = 1
+        double3 xformOp:translate = (19.1, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R015"
+        custom double designKw = 25
+    }
+    def Cube "H03_R016"
+    {
+        double size = 1
+        double3 xformOp:translate = (20.3, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R016"
+        custom double designKw = 25
+    }
+    def Cube "H03_R017"
+    {
+        double size = 1
+        double3 xformOp:translate = (21.5, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R017"
+        custom double designKw = 25
+    }
+    def Cube "H03_R018"
+    {
+        double size = 1
+        double3 xformOp:translate = (22.7, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R018"
+        custom double designKw = 25
+    }
+    def Cube "H03_R019"
+    {
+        double size = 1
+        double3 xformOp:translate = (23.900000000000002, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R019"
+        custom double designKw = 25
+    }
+    def Cube "H03_R020"
+    {
+        double size = 1
+        double3 xformOp:translate = (25.099999999999998, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R020"
+        custom double designKw = 25
+    }
+    def Cube "H03_R021"
+    {
+        double size = 1
+        double3 xformOp:translate = (14.3, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R021"
+        custom double designKw = 25
+    }
+    def Cube "H03_R022"
+    {
+        double size = 1
+        double3 xformOp:translate = (15.5, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R022"
+        custom double designKw = 25
+    }
+    def Cube "H03_R023"
+    {
+        double size = 1
+        double3 xformOp:translate = (16.7, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R023"
+        custom double designKw = 25
+    }
+    def Cube "H03_R024"
+    {
+        double size = 1
+        double3 xformOp:translate = (17.900000000000002, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R024"
+        custom double designKw = 25
+    }
+    def Cube "H03_R025"
+    {
+        double size = 1
+        double3 xformOp:translate = (19.1, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R025"
+        custom double designKw = 25
+    }
+    def Cube "H03_R026"
+    {
+        double size = 1
+        double3 xformOp:translate = (20.3, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R026"
+        custom double designKw = 25
+    }
+    def Cube "H03_R027"
+    {
+        double size = 1
+        double3 xformOp:translate = (21.5, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R027"
+        custom double designKw = 25
+    }
+    def Cube "H03_R028"
+    {
+        double size = 1
+        double3 xformOp:translate = (22.7, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R028"
+        custom double designKw = 25
+    }
+    def Cube "H03_R029"
+    {
+        double size = 1
+        double3 xformOp:translate = (23.900000000000002, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R029"
+        custom double designKw = 25
+    }
+    def Cube "H03_R030"
+    {
+        double size = 1
+        double3 xformOp:translate = (25.099999999999998, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R030"
+        custom double designKw = 25
+    }
+    def Cube "H03_R031"
+    {
+        double size = 1
+        double3 xformOp:translate = (14.3, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R031"
+        custom double designKw = 25
+    }
+    def Cube "H03_R032"
+    {
+        double size = 1
+        double3 xformOp:translate = (15.5, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R032"
+        custom double designKw = 25
+    }
+    def Cube "H03_R033"
+    {
+        double size = 1
+        double3 xformOp:translate = (16.7, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R033"
+        custom double designKw = 25
+    }
+    def Cube "H03_R034"
+    {
+        double size = 1
+        double3 xformOp:translate = (17.900000000000002, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R034"
+        custom double designKw = 25
+    }
+    def Cube "H03_R035"
+    {
+        double size = 1
+        double3 xformOp:translate = (19.1, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R035"
+        custom double designKw = 25
+    }
+    def Cube "H03_R036"
+    {
+        double size = 1
+        double3 xformOp:translate = (20.3, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R036"
+        custom double designKw = 25
+    }
+    def Cube "H03_R037"
+    {
+        double size = 1
+        double3 xformOp:translate = (21.5, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R037"
+        custom double designKw = 25
+    }
+    def Cube "H03_R038"
+    {
+        double size = 1
+        double3 xformOp:translate = (22.7, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R038"
+        custom double designKw = 25
+    }
+    def Cube "H03_R039"
+    {
+        double size = 1
+        double3 xformOp:translate = (23.900000000000002, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R039"
+        custom double designKw = 25
+    }
+    def Cube "H03_R040"
+    {
+        double size = 1
+        double3 xformOp:translate = (25.099999999999998, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R040"
+        custom double designKw = 25
+    }
+    def Cube "H03_R041"
+    {
+        double size = 1
+        double3 xformOp:translate = (14.3, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R041"
+        custom double designKw = 25
+    }
+    def Cube "H03_R042"
+    {
+        double size = 1
+        double3 xformOp:translate = (15.5, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R042"
+        custom double designKw = 25
+    }
+    def Cube "H03_R043"
+    {
+        double size = 1
+        double3 xformOp:translate = (16.7, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R043"
+        custom double designKw = 25
+    }
+    def Cube "H03_R044"
+    {
+        double size = 1
+        double3 xformOp:translate = (17.900000000000002, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R044"
+        custom double designKw = 25
+    }
+    def Cube "H03_R045"
+    {
+        double size = 1
+        double3 xformOp:translate = (19.1, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R045"
+        custom double designKw = 25
+    }
+    def Cube "H03_R046"
+    {
+        double size = 1
+        double3 xformOp:translate = (20.3, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R046"
+        custom double designKw = 25
+    }
+    def Cube "H03_R047"
+    {
+        double size = 1
+        double3 xformOp:translate = (21.5, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R047"
+        custom double designKw = 25
+    }
+    def Cube "H03_R048"
+    {
+        double size = 1
+        double3 xformOp:translate = (22.7, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R048"
+        custom double designKw = 25
+    }
+    def Cube "H03_R049"
+    {
+        double size = 1
+        double3 xformOp:translate = (23.900000000000002, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R049"
+        custom double designKw = 25
+    }
+    def Cube "H03_R050"
+    {
+        double size = 1
+        double3 xformOp:translate = (25.099999999999998, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H03-R050"
+        custom double designKw = 25
+    }
+    def Cube "H04_R001"
+    {
+        double size = 1
+        double3 xformOp:translate = (42.3, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R001"
+        custom double designKw = 25
+    }
+    def Cube "H04_R002"
+    {
+        double size = 1
+        double3 xformOp:translate = (43.5, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R002"
+        custom double designKw = 25
+    }
+    def Cube "H04_R003"
+    {
+        double size = 1
+        double3 xformOp:translate = (44.699999999999996, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R003"
+        custom double designKw = 25
+    }
+    def Cube "H04_R004"
+    {
+        double size = 1
+        double3 xformOp:translate = (45.9, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R004"
+        custom double designKw = 25
+    }
+    def Cube "H04_R005"
+    {
+        double size = 1
+        double3 xformOp:translate = (47.099999999999994, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R005"
+        custom double designKw = 25
+    }
+    def Cube "H04_R006"
+    {
+        double size = 1
+        double3 xformOp:translate = (48.3, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R006"
+        custom double designKw = 25
+    }
+    def Cube "H04_R007"
+    {
+        double size = 1
+        double3 xformOp:translate = (49.5, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R007"
+        custom double designKw = 25
+    }
+    def Cube "H04_R008"
+    {
+        double size = 1
+        double3 xformOp:translate = (50.699999999999996, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R008"
+        custom double designKw = 25
+    }
+    def Cube "H04_R009"
+    {
+        double size = 1
+        double3 xformOp:translate = (51.9, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R009"
+        custom double designKw = 25
+    }
+    def Cube "H04_R010"
+    {
+        double size = 1
+        double3 xformOp:translate = (53.099999999999994, 45.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R010"
+        custom double designKw = 25
+    }
+    def Cube "H04_R011"
+    {
+        double size = 1
+        double3 xformOp:translate = (42.3, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R011"
+        custom double designKw = 25
+    }
+    def Cube "H04_R012"
+    {
+        double size = 1
+        double3 xformOp:translate = (43.5, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R012"
+        custom double designKw = 25
+    }
+    def Cube "H04_R013"
+    {
+        double size = 1
+        double3 xformOp:translate = (44.699999999999996, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R013"
+        custom double designKw = 25
+    }
+    def Cube "H04_R014"
+    {
+        double size = 1
+        double3 xformOp:translate = (45.9, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R014"
+        custom double designKw = 25
+    }
+    def Cube "H04_R015"
+    {
+        double size = 1
+        double3 xformOp:translate = (47.099999999999994, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R015"
+        custom double designKw = 25
+    }
+    def Cube "H04_R016"
+    {
+        double size = 1
+        double3 xformOp:translate = (48.3, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R016"
+        custom double designKw = 25
+    }
+    def Cube "H04_R017"
+    {
+        double size = 1
+        double3 xformOp:translate = (49.5, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R017"
+        custom double designKw = 25
+    }
+    def Cube "H04_R018"
+    {
+        double size = 1
+        double3 xformOp:translate = (50.699999999999996, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R018"
+        custom double designKw = 25
+    }
+    def Cube "H04_R019"
+    {
+        double size = 1
+        double3 xformOp:translate = (51.9, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R019"
+        custom double designKw = 25
+    }
+    def Cube "H04_R020"
+    {
+        double size = 1
+        double3 xformOp:translate = (53.099999999999994, 48.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R020"
+        custom double designKw = 25
+    }
+    def Cube "H04_R021"
+    {
+        double size = 1
+        double3 xformOp:translate = (42.3, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R021"
+        custom double designKw = 25
+    }
+    def Cube "H04_R022"
+    {
+        double size = 1
+        double3 xformOp:translate = (43.5, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R022"
+        custom double designKw = 25
+    }
+    def Cube "H04_R023"
+    {
+        double size = 1
+        double3 xformOp:translate = (44.699999999999996, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R023"
+        custom double designKw = 25
+    }
+    def Cube "H04_R024"
+    {
+        double size = 1
+        double3 xformOp:translate = (45.9, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R024"
+        custom double designKw = 25
+    }
+    def Cube "H04_R025"
+    {
+        double size = 1
+        double3 xformOp:translate = (47.099999999999994, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R025"
+        custom double designKw = 25
+    }
+    def Cube "H04_R026"
+    {
+        double size = 1
+        double3 xformOp:translate = (48.3, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R026"
+        custom double designKw = 25
+    }
+    def Cube "H04_R027"
+    {
+        double size = 1
+        double3 xformOp:translate = (49.5, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R027"
+        custom double designKw = 25
+    }
+    def Cube "H04_R028"
+    {
+        double size = 1
+        double3 xformOp:translate = (50.699999999999996, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R028"
+        custom double designKw = 25
+    }
+    def Cube "H04_R029"
+    {
+        double size = 1
+        double3 xformOp:translate = (51.9, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R029"
+        custom double designKw = 25
+    }
+    def Cube "H04_R030"
+    {
+        double size = 1
+        double3 xformOp:translate = (53.099999999999994, 51.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R030"
+        custom double designKw = 25
+    }
+    def Cube "H04_R031"
+    {
+        double size = 1
+        double3 xformOp:translate = (42.3, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R031"
+        custom double designKw = 25
+    }
+    def Cube "H04_R032"
+    {
+        double size = 1
+        double3 xformOp:translate = (43.5, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R032"
+        custom double designKw = 25
+    }
+    def Cube "H04_R033"
+    {
+        double size = 1
+        double3 xformOp:translate = (44.699999999999996, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R033"
+        custom double designKw = 25
+    }
+    def Cube "H04_R034"
+    {
+        double size = 1
+        double3 xformOp:translate = (45.9, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R034"
+        custom double designKw = 25
+    }
+    def Cube "H04_R035"
+    {
+        double size = 1
+        double3 xformOp:translate = (47.099999999999994, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R035"
+        custom double designKw = 25
+    }
+    def Cube "H04_R036"
+    {
+        double size = 1
+        double3 xformOp:translate = (48.3, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R036"
+        custom double designKw = 25
+    }
+    def Cube "H04_R037"
+    {
+        double size = 1
+        double3 xformOp:translate = (49.5, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R037"
+        custom double designKw = 25
+    }
+    def Cube "H04_R038"
+    {
+        double size = 1
+        double3 xformOp:translate = (50.699999999999996, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R038"
+        custom double designKw = 25
+    }
+    def Cube "H04_R039"
+    {
+        double size = 1
+        double3 xformOp:translate = (51.9, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R039"
+        custom double designKw = 25
+    }
+    def Cube "H04_R040"
+    {
+        double size = 1
+        double3 xformOp:translate = (53.099999999999994, 54.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R040"
+        custom double designKw = 25
+    }
+    def Cube "H04_R041"
+    {
+        double size = 1
+        double3 xformOp:translate = (42.3, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R041"
+        custom double designKw = 25
+    }
+    def Cube "H04_R042"
+    {
+        double size = 1
+        double3 xformOp:translate = (43.5, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R042"
+        custom double designKw = 25
+    }
+    def Cube "H04_R043"
+    {
+        double size = 1
+        double3 xformOp:translate = (44.699999999999996, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R043"
+        custom double designKw = 25
+    }
+    def Cube "H04_R044"
+    {
+        double size = 1
+        double3 xformOp:translate = (45.9, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R044"
+        custom double designKw = 25
+    }
+    def Cube "H04_R045"
+    {
+        double size = 1
+        double3 xformOp:translate = (47.099999999999994, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R045"
+        custom double designKw = 25
+    }
+    def Cube "H04_R046"
+    {
+        double size = 1
+        double3 xformOp:translate = (48.3, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R046"
+        custom double designKw = 25
+    }
+    def Cube "H04_R047"
+    {
+        double size = 1
+        double3 xformOp:translate = (49.5, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R047"
+        custom double designKw = 25
+    }
+    def Cube "H04_R048"
+    {
+        double size = 1
+        double3 xformOp:translate = (50.699999999999996, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R048"
+        custom double designKw = 25
+    }
+    def Cube "H04_R049"
+    {
+        double size = 1
+        double3 xformOp:translate = (51.9, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R049"
+        custom double designKw = 25
+    }
+    def Cube "H04_R050"
+    {
+        double size = 1
+        double3 xformOp:translate = (53.099999999999994, 57.6, 1.1)
+        double3 xformOp:scale = (0.6, 1.2, 2.2)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale"]
+        custom string assetId = "H04-R050"
+        custom double designKw = 25
+    }
+}

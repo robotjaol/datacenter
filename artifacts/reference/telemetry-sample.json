@@ -1,0 +1,1802 @@
+[
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R001",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R002",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R003",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R004",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R005",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R006",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R007",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R008",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R009",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R010",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R011",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R012",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R013",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R014",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R015",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R016",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R017",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R018",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R019",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R020",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R021",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R022",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R023",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R024",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R025",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R026",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R027",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R028",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R029",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R030",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R031",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R032",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R033",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R034",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R035",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R036",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R037",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R038",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R039",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R040",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R041",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R042",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R043",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R044",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R045",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R046",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R047",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R048",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R049",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H01-R050",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R001",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R002",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R003",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R004",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R005",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R006",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R007",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R008",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R009",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R010",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R011",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R012",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R013",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R014",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R015",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R016",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R017",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R018",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R019",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R020",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R021",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R022",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R023",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R024",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R025",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R026",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R027",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R028",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R029",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R030",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R031",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R032",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R033",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R034",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R035",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R036",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R037",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R038",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R039",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R040",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R041",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R042",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R043",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R044",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R045",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R046",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R047",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R048",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R049",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H02-R050",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R001",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R002",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R003",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R004",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R005",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R006",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R007",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R008",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R009",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R010",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R011",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R012",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R013",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R014",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R015",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R016",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R017",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R018",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R019",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R020",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R021",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R022",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R023",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R024",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R025",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R026",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R027",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R028",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R029",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R030",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R031",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R032",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R033",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R034",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R035",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R036",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R037",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R038",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R039",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R040",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R041",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R042",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R043",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R044",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R045",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R046",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R047",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R048",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R049",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H03-R050",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R001",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R002",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R003",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R004",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R005",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R006",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R007",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R008",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R009",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R010",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R011",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R012",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R013",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R014",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R015",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R016",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R017",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R018",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R019",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R020",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R021",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R022",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R023",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R024",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R025",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R026",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R027",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R028",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R029",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R030",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R031",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R032",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R033",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R034",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R035",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R036",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R037",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R038",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R039",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R040",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R041",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R042",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R043",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R044",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R045",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R046",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R047",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R048",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R049",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00+07:00",
+    "asset_id": "H04-R050",
+    "metric": "active_power_kw",
+    "value": 18.75,
+    "unit": "kW",
+    "quality": "synthetic",
+    "source": "offline-example"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "IST-001",
+    "inputs": {},
+    "actual": {
+      "observed_source": "UTILITY",
+      "alarms": [],
+      "operator_review_required": false,
+      "writes_enabled": false
+    },
+    "expected_source": "UTILITY",
+    "expected_alarms": [],
+    "passed": true,
+    "evidence_level": "offline software scenario; not physical IST"
+  },
+  {
+    "id": "IST-002",
+    "inputs": {
+      "utility_ok": false
+    },
+    "actual": {
+      "observed_source": "BATTERY",
+      "alarms": [
+        "UTILITY_LOST"
+      ],
+      "operator_review_required": true,
+      "writes_enabled": false
+    },
+    "expected_source": "BATTERY",
+    "expected_alarms": [
+      "UTILITY_LOST"
+    ],
+    "passed": true,
+    "evidence_level": "offline software scenario; not physical IST"
+  },
+  {
+    "id": "IST-003",
+    "inputs": {
+      "utility_ok": false,
+      "generator_ready": true
+    },
+    "actual": {
+      "observed_source": "GENERATOR",
+      "alarms": [
+        "UTILITY_LOST"
+      ],
+      "operator_review_required": true,
+      "writes_enabled": false
+    },
+    "expected_source": "GENERATOR",
+    "expected_alarms": [
+      "UTILITY_LOST"
+    ],
+    "passed": true,
+    "evidence_level": "offline software scenario; not physical IST"
+  },
+  {
+    "id": "IST-004",
+    "inputs": {
+      "utility_ok": false,
+      "battery_available": false
+    },
+    "actual": {
+      "observed_source": "UNSERVED",
+      "alarms": [
+        "UTILITY_LOST"
+      ],
+      "operator_review_required": true,
+      "writes_enabled": false
+    },
+    "expected_source": "UNSERVED",
+    "expected_alarms": [
+      "UTILITY_LOST"
+    ],
+    "passed": true,
+    "evidence_level": "offline software scenario; not physical IST"
+  },
+  {
+    "id": "IST-005",
+    "inputs": {
+      "telemetry_fresh": false
+    },
+    "actual": {
+      "observed_source": "UNKNOWN",
+      "alarms": [
+        "TELEMETRY_STALE"
+      ],
+      "operator_review_required": true,
+      "writes_enabled": false
+    },
+    "expected_source": "UNKNOWN",
+    "expected_alarms": [
+      "TELEMETRY_STALE"
+    ],
+    "passed": true,
+    "evidence_level": "offline software scenario; not physical IST"
+  },
+  {
+    "id": "IST-006",
+    "inputs": {
+      "leak": true,
+      "supply_temp_c": 31
+    },
+    "actual": {
+      "observed_source": "UTILITY",
+      "alarms": [
+        "LIQUID_LEAK",
+        "HIGH_INLET_TEMPERATURE"
+      ],
+      "operator_review_required": true,
+      "writes_enabled": false
+    },
+    "expected_source": "UTILITY",
+    "expected_alarms": [
+      "LIQUID_LEAK",
+      "HIGH_INLET_TEMPERATURE"
+    ],
+    "passed": true,
+    "evidence_level": "offline software scenario; not physical IST"
+  }
+]

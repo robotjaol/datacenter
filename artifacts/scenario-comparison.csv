@@ -1,0 +1,8 @@
+scenario,annual_pue,facility_kwh,grid_kwh,npv_usd,irr,design_facility_kw,cdus_per_hall,limitation
+Reference,1.3467773582670615,44241636.21907297,44241636.21907297,-329170.43659801316,0.09921738531978008,6813.698433013868,2,Fixed CAPEX except residual treatment; alternative equipment/PV costs not modeled
+Hotter climate +6C,1.3713707494440426,45049529.1192368,45049529.1192368,-329170.43659801874,0.09921738531978008,6961.24758817656,2,Fixed CAPEX except residual treatment; alternative equipment/PV costs not modeled
+Improved COP 5.5,1.3032813223474216,42812791.4391128,42812791.4391128,-329170.4365980164,0.09921738531978008,6559.256293043068,2,Fixed CAPEX except residual treatment; alternative equipment/PV costs not modeled
+Energy recovery 80%,1.3467773582670615,44241636.21907297,44241636.21907297,-6799141.941337768,0.08337221851500376,6813.698433013868,2,Fixed CAPEX except residual treatment; alternative equipment/PV costs not modeled
+Zero residual recovery,1.3467773582670615,44241636.21907297,44241636.21907297,-2603454.057956723,0.09350051098830436,6813.698433013868,2,Fixed CAPEX except residual treatment; alternative equipment/PV costs not modeled
+1 MWp illustrative PV,1.3467773582670615,44241636.21907297,42023676.01815722,-329170.43659802014,0.09921738531978008,6813.698433013868,2,Fixed CAPEX except residual treatment; alternative equipment/PV costs not modeled
+Air only,1.3542452441389938,44486956.26996595,44486956.26996595,-329170.43659801595,0.09921738531978008,6851.667034693312,0,Fixed CAPEX except residual treatment; alternative equipment/PV costs not modeled

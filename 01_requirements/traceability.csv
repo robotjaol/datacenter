@@ -1,0 +1,11 @@
+requirement,design_evidence,calculation,verification,maturity
+OPR-001,01_requirements/design-basis.md,dcf/config.py,test_capacity_and_profile_consistency,software verified
+OPR-002,docs/model-methodology.md,dcf/energy.py,test_8760_energy_weighted_pue_and_calendar,software verified
+OPR-003,05_electrical/single-line-concept.svg,dcf/engineering.py,test_n_plus_one_and_per_path_boundaries,capacity only; topology open
+OPR-004,06_mechanical/cooling-loop-concept.svg,dcf/engineering.py,test_heat_split_and_water_units,steady-state only
+OPR-005,07_energy/README.md,dcf/energy.py,test_zero_it_and_pv_boundaries,synthetic model
+OPR-006,03_financial-model/README.md,dcf/finance.py,test_financial_recovery_cashflow_and_terminal,pre-tax screen
+OPR-007,11_digital-twin/README.md,dcf/geometry.py,test_geometry_identity_and_bounds,synthetic geometry
+OPR-008,10_control-system/control-narrative.md,dcf/controls.py,test_control_failures_and_no_writes,offline only
+OPR-009,15_commissioning/commissioning-plan.md,dcf/controls.py,artifacts/reference/commissioning-results.json,physical tests unexecuted
+OPR-010,README.md,pyproject.toml,.github/workflows/ci.yml,local tested; remote CI pending upload

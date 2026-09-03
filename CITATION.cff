@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this concept toolkit, please cite this repository and the original sources relevant to your work."
+title: "Open Data Center Facility"
+version: 0.1.0
+date-released: 2026-09-03
+type: software
+authors:
+  - family-names: Oktaviano
+    given-names: Jonathan
+repository-code: "https://github.com/robotjaol/datacenter"
+license: MIT

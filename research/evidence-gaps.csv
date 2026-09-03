@@ -1,0 +1,10 @@
+claim_or_decision,current_evidence,confidence,gap_or_conflict,next_action
+PUE/WUE definitions,S01 S14,high,No real metering data,Implement calibrated meter adapter
+Concurrent maintainability,S02 overview,high for definition; low for this topology,No full path/isolation demonstration,Review maintenance matrix against detailed topology
+Current thermal envelope,S03 S04,medium,Full current ASHRAE content/equipment limits not accessed,Obtain current guidance and supplier data
+Liquid cooling interfaces,S05,high for concept scope,Actual chemistry/hydraulics missing,Obtain supplier design data
+OCP document license,S06 front matter/footer,uncertain,BY-SA versus BY inconsistency,Cite only; clarify before adaptation
+Vendor design comparability,S09 S10 landing/catalog,limited,RD100 PDF inaccessible; tools not executed,Obtain authorized documents and comparison runs
+Economic feasibility,Original hypothetical inputs; S13 conventions,low for local economics,No real quotes leases tariffs or financing,Collect market and contractual evidence
+Indonesia site feasibility,No actual site data,unassessed,Grid/flood/geotechnical/permitting absent,Commission local due diligence
+Simulation fidelity,Original equations plus S11 comparison concept,unvalidated,No physical calibration or external solver execution,Record validation cases and measured evidence

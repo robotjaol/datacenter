@@ -1,0 +1,4 @@
+site,grid,hazards,water,fiber,access,grid_gate,hazard_gate,evidence
+Site Alpha,4,4,3,4,4,pass,pass,Synthetic candidate; no real site investigation
+Site Beta,5,2,4,5,4,pass,fail,Synthetic candidate; fails assumed flood gate
+Site Gamma,3,5,4,3,3,pass,pass,Synthetic candidate; no real site investigation

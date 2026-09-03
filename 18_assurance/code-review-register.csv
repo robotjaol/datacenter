@@ -1,0 +1,8 @@
+topic,evidence_needed,owner,status
+Land/building permits,Applicable local authority and permit basis,Local architect,unresolved
+Structure/seismic,Site class loads geotechnical and applicable design code,Structural engineer,unresolved
+Fire/life safety,Occupancy compartments egress suppression and authority review,Fire engineer,unresolved
+Electrical,Applicable code voltage earthing protection and safety study,Electrical engineer,unresolved
+Battery hazards,Chemistry arrangement ventilation/fire response,Electrical/fire team,unresolved
+Water/discharge,Source permission quality and discharge constraints,Environmental engineer,unresolved
+Fuel/emissions/noise,Generator operating permits and environmental limits,Environmental engineer,unresolved

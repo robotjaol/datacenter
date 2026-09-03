@@ -1,0 +1,6 @@
+system,task_class,trigger,required_evidence,interval_basis
+UPS/battery,Condition and capacity review,Approved maintenance plan or alarm,Trend/capacity records and corrective action,Vendor/site risk-based; no universal interval asserted
+Generator/fuel,Availability and support review,Approved maintenance plan,Service/test/fuel-quality evidence,Vendor/local requirements
+Cooling,Performance and water-quality review,Approved maintenance plan or excursion,Flow/temperature/filter/chemistry records,Vendor/site conditions
+Meters/sensors,Calibration and data-quality,Calibration due or drift indication,Traceable calibration and as-left readings,Approved metrology plan
+Controls,Backup and recovery exercise,Approved change or drill,Versioned backup and recovery record,Site change policy

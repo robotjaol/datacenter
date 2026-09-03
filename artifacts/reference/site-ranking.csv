@@ -1,0 +1,4 @@
+site,eligible,score_100,evidence,grid_gate,hazard_gate
+Site Alpha,True,77.0,Synthetic candidate; no real site investigation,pass,pass
+Site Gamma,True,73.0,Synthetic candidate; no real site investigation,pass,pass
+Site Beta,False,80.0,Synthetic candidate; fails assumed flood gate,pass,fail

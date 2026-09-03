@@ -1,0 +1,6 @@
+item,isolation_intent,surviving_capacity,unresolved_dependency,status
+UPS-A module,Remove one module,Full modeled requirement retained,Bypass/cabling/control-power isolation,Capacity PASS; topology OPEN
+Path A,Remove complete A path,Path B full allowance,Physical route independence and all auxiliary feeds,OPEN
+One chiller,Isolate chiller branch,Remaining units satisfy heat allowance,Hydraulic balance and control sequencing,Capacity PASS; hydraulics OPEN
+One CDU per hall,Isolate one local CDU,Remaining CDU meets hall liquid heat allowance,Hose/manifold isolation and compatible coolant,Capacity PASS; routing OPEN
+Shared CHW header,Isolate pipe section,Not established,Common loop and sectional bypass,OPEN

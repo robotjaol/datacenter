@@ -1,0 +1,9 @@
+space,count,area_each_m2,basis,status
+White-space hall,4,460,Parametric 20 m by 23 m from rack pitch,concept drawn
+Electrical A room,1,500,Author space allowance; equipment coordination required,not drawn
+Electrical B room,1,500,Author space allowance; equipment coordination required,not drawn
+Battery support zone,2,150,Chemistry and safety design unresolved,not drawn
+Mechanical/CDU service,4,80,Author access/maintenance allowance,not drawn
+Operations/security/admin,1,300,Author functional allowance,not drawn
+Loading/staging/workshop,1,400,Replacement route and floor loads unresolved,not drawn
+External generator/transformer/chiller yards,1,3000,Author land allowance; separations/noise unresolved,not drawn

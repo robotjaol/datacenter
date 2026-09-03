@@ -1,0 +1,651 @@
+{
+  "model_version": "0.1.0",
+  "scenario": "Tropical 5 MW reference facility",
+  "status": "concept study; synthetic inputs; not certified or construction-ready",
+  "config_sha256": "bee82be43133ca5ff4aff869e6cd96490f7459a5b7ac686b5762026f9722ce94",
+  "sizing": {
+    "design_balance": {
+      "it_kw": 5000,
+      "distribution_loss_kw": 50.50505050505035,
+      "ups_loss_kw": 183.17893965562416,
+      "fan_kw": 70.0,
+      "cooling_kwth": 5383.6839901606745,
+      "cop": 4.15,
+      "compressor_kw": 1297.2732506411262,
+      "pump_kw": 64.60420788192809,
+      "other_kw": 80,
+      "transformer_loss_kw": 68.13698433013906,
+      "facility_kw": 6813.698433013868,
+      "instantaneous_power_ratio": 1.3627396866027737
+    },
+    "paths": 2,
+    "ups_per_path_kw": {
+      "required": 5555.555555555556,
+      "unit_rating": 1250,
+      "derating": 1,
+      "duty_units": 5,
+      "installed_units": 6,
+      "remaining_capacity_after_one_loss": 6250,
+      "spare_units": 1
+    },
+    "transformers_per_path_kva": {
+      "required": 7889.545554016059,
+      "unit_rating": 4000,
+      "derating": 1,
+      "duty_units": 2,
+      "installed_units": 3,
+      "remaining_capacity_after_one_loss": 8000,
+      "spare_units": 1
+    },
+    "generators_per_path_kw": {
+      "required": 7495.068276315256,
+      "unit_rating": 3000,
+      "derating": 0.9,
+      "duty_units": 3,
+      "installed_units": 4,
+      "remaining_capacity_after_one_loss": 8100.0,
+      "spare_units": 1
+    },
+    "chillers_shared_kwth": {
+      "required": 5922.0523891767425,
+      "unit_rating": 1250,
+      "derating": 1,
+      "duty_units": 5,
+      "installed_units": 6,
+      "remaining_capacity_after_one_loss": 6250,
+      "spare_units": 1
+    },
+    "cdus_per_hall_kwth": {
+      "required": 412.50000000000006,
+      "unit_rating": 500,
+      "derating": 1,
+      "duty_units": 1,
+      "installed_units": 2,
+      "remaining_capacity_after_one_loss": 500,
+      "spare_units": 1
+    },
+    "battery_per_path_kwh": 1370.0371773288437,
+    "chw_mass_flow_kg_s": 214.35276278709486,
+    "liquid_it_kwth": 1500.0,
+    "liquid_mass_flow_kg_s": 59.72288580984233,
+    "air_it_kwth": 3500.0,
+    "air_volume_flow_m3_s": 246.43803843605036,
+    "bess_nameplate_kwh": 3396.739130434782
+  },
+  "energy": {
+    "occupancy": 1,
+    "hours": 8760,
+    "it_kwh": 32850000.0,
+    "facility_kwh": 44241636.21907297,
+    "grid_kwh": 44241636.21907297,
+    "pv_used_kwh": 0.0,
+    "pv_curtailed_kwh": 0.0,
+    "pue": 1.3467773582670615,
+    "electricity_usd": 4770608.118218979,
+    "operational_grid_tco2e": 30969.145353351076,
+    "direct_site_water_m3": 1642.5,
+    "direct_wue_l_kwh": 0.05,
+    "monthly": [
+      {
+        "month": 1,
+        "hours": 744,
+        "it_kwh": 2790000.0,
+        "facility_kwh": 3739341.313193895,
+        "grid_kwh": 3739341.313193895,
+        "grid_peak_kw": 5742.236460525235,
+        "electricity_usd": 402645.3136220157,
+        "pue": 1.3402657036537258
+      },
+      {
+        "month": 2,
+        "hours": 672,
+        "it_kwh": 2520000.0,
+        "facility_kwh": 3383275.6059805444,
+        "grid_kwh": 3383275.6059805444,
+        "grid_peak_kw": 5755.488299065062,
+        "electricity_usd": 367105.00209337974,
+        "pue": 1.3425696849129145
+      },
+      {
+        "month": 3,
+        "hours": 744,
+        "it_kwh": 2790000.0,
+        "facility_kwh": 3755275.386239174,
+        "grid_kwh": 3755275.386239174,
+        "grid_peak_kw": 5773.785024171988,
+        "electricity_usd": 404396.4637447773,
+        "pue": 1.3459768409459405
+      },
+      {
+        "month": 4,
+        "hours": 720,
+        "it_kwh": 2700000.0,
+        "facility_kwh": 3644380.6114313444,
+        "grid_kwh": 3644380.6114313444,
+        "grid_peak_kw": 5790.560609424659,
+        "electricity_usd": 393390.8641902578,
+        "pue": 1.3497705968264238
+      },
+      {
+        "month": 5,
+        "hours": 744,
+        "it_kwh": 2790000.0,
+        "facility_kwh": 3774338.7417440973,
+        "grid_kwh": 3774338.7417440973,
+        "grid_peak_kw": 5801.926357366298,
+        "electricity_usd": 406443.50596124126,
+        "pue": 1.3528095848545152
+      },
+      {
+        "month": 6,
+        "hours": 720,
+        "it_kwh": 2700000.0,
+        "facility_kwh": 3656354.692086034,
+        "grid_kwh": 3656354.692086034,
+        "grid_peak_kw": 5804.269013939713,
+        "electricity_usd": 394656.814278302,
+        "pue": 1.354205441513346
+      },
+      {
+        "month": 7,
+        "hours": 744,
+        "it_kwh": 2790000.0,
+        "facility_kwh": 3776287.589089653,
+        "grid_kwh": 3776287.589089653,
+        "grid_peak_kw": 5803.678223861536,
+        "electricity_usd": 406647.150028273,
+        "pue": 1.3535080964479043
+      },
+      {
+        "month": 8,
+        "hours": 744,
+        "it_kwh": 2790000.0,
+        "facility_kwh": 3769002.8384744567,
+        "grid_kwh": 3769002.8384744567,
+        "grid_peak_kw": 5795.244563810714,
+        "electricity_usd": 405876.50666649925,
+        "pue": 1.3508970747220275
+      },
+      {
+        "month": 9,
+        "hours": 720,
+        "it_kwh": 2700000.0,
+        "facility_kwh": 3637538.0579447965,
+        "grid_kwh": 3637538.0579447965,
+        "grid_peak_kw": 5779.336618341946,
+        "electricity_usd": 392650.4888861894,
+        "pue": 1.347236317757332
+      },
+      {
+        "month": 10,
+        "hours": 744,
+        "it_kwh": 2790000.0,
+        "facility_kwh": 3748454.1690186127,
+        "grid_kwh": 3748454.1690186127,
+        "grid_peak_kw": 5761.375126766143,
+        "electricity_usd": 403652.29253569205,
+        "pue": 1.343531960221725
+      },
+      {
+        "month": 11,
+        "hours": 720,
+        "it_kwh": 2700000.0,
+        "facility_kwh": 3620011.9602146233,
+        "grid_kwh": 3620011.9602146233,
+        "grid_peak_kw": 5745.221560022498,
+        "electricity_usd": 390727.30382157484,
+        "pue": 1.3407451704498605
+      },
+      {
+        "month": 12,
+        "hours": 744,
+        "it_kwh": 2790000.0,
+        "facility_kwh": 3737375.253655733,
+        "grid_kwh": 3737375.253655733,
+        "grid_peak_kw": 5735.77740504054,
+        "electricity_usd": 402416.41239077604,
+        "pue": 1.339561022815675
+      }
+    ]
+  },
+  "finance": {
+    "basis": "nominal USD, pre-tax, unlevered, year-0 capital, year-end annual cash flows",
+    "capex_usd": 57600000.0,
+    "npv_usd": -329170.43659801316,
+    "irr": 0.09921738531978008,
+    "simple_payback_years": 8.672953768711363,
+    "gross_lifecycle_cost_npv_usd": 105550620.61421904,
+    "cashflows_usd": [
+      -57600000.0,
+      1860000.0,
+      3549600.0,
+      5306040.0,
+      7131317.760000002,
+      8442970.848000001,
+      9208033.898688,
+      9392194.57666176,
+      6133981.465247155,
+      9771639.237558898,
+      9967072.022310076,
+      10166413.462756278,
+      10369741.732011402,
+      10577136.566651627,
+      10788679.297984665,
+      20504699.977997035
+    ],
+    "years": [
+      {
+        "year": 1,
+        "occupancy": 0.35,
+        "facility_kwh": 16051135.647365788,
+        "grid_kwh": 16051135.647365788,
+        "capacity_revenue_usd": 3780000.0,
+        "energy_recovery_usd": 1730295.59832017,
+        "electricity_usd": 1730295.59832017,
+        "fixed_opex_usd": 1200000.0,
+        "maintenance_usd": 720000.0,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 1860000.0,
+        "cumulative_cashflow_usd": -55740000.0,
+        "discount_factor": 0.9090909090909091,
+        "pv_cashflow_usd": 1690909.0909090908
+      },
+      {
+        "year": 2,
+        "occupancy": 0.5,
+        "facility_kwh": 22556635.779298212,
+        "grid_kwh": 22556635.779298212,
+        "capacity_revenue_usd": 5508000.0,
+        "energy_recovery_usd": 2480544.3034319854,
+        "electricity_usd": 2480544.3034319854,
+        "fixed_opex_usd": 1224000.0,
+        "maintenance_usd": 734400.0,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 3549600.0,
+        "cumulative_cashflow_usd": -52190400.0,
+        "discount_factor": 0.8264462809917354,
+        "pv_cashflow_usd": 2933553.719008264
+      },
+      {
+        "year": 3,
+        "occupancy": 0.65,
+        "facility_kwh": 29062135.91123064,
+        "grid_kwh": 29062135.91123064,
+        "capacity_revenue_usd": 7303608.0,
+        "energy_recovery_usd": 3260110.8385089454,
+        "electricity_usd": 3260110.8385089454,
+        "fixed_opex_usd": 1248480.0,
+        "maintenance_usd": 749088.0,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 5306040.0,
+        "cumulative_cashflow_usd": -46884360.0,
+        "discount_factor": 0.7513148009015775,
+        "pv_cashflow_usd": 3986506.3861758066
+      },
+      {
+        "year": 4,
+        "occupancy": 0.8,
+        "facility_kwh": 35567636.04316307,
+        "grid_kwh": 35567636.04316307,
+        "capacity_revenue_usd": 9168837.120000001,
+        "energy_recovery_usd": 4069867.817267611,
+        "electricity_usd": 4069867.817267611,
+        "fixed_opex_usd": 1273449.6,
+        "maintenance_usd": 764069.7600000001,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 7131317.760000002,
+        "cumulative_cashflow_usd": -39753042.239999995,
+        "discount_factor": 0.6830134553650705,
+        "pv_cashflow_usd": 4870785.9845638955
+      },
+      {
+        "year": 5,
+        "occupancy": 0.9,
+        "facility_kwh": 39904636.131118014,
+        "grid_kwh": 39904636.131118014,
+        "capacity_revenue_usd": 10521240.5952,
+        "energy_recovery_usd": 4657562.411765133,
+        "electricity_usd": 4657562.411765133,
+        "fixed_opex_usd": 1298918.592,
+        "maintenance_usd": 779351.1552,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 8442970.848000001,
+        "cumulative_cashflow_usd": -31310071.391999993,
+        "discount_factor": 0.6209213230591549,
+        "pv_cashflow_usd": 5242420.6294900365
+      },
+      {
+        "year": 6,
+        "occupancy": 0.95,
+        "facility_kwh": 42073136.17509549,
+        "grid_kwh": 42073136.17509549,
+        "capacity_revenue_usd": 11327869.040832,
+        "energy_recovery_usd": 5008925.251458043,
+        "electricity_usd": 5008925.251458043,
+        "fixed_opex_usd": 1324896.96384,
+        "maintenance_usd": 794938.1783040001,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 9208033.898688,
+        "cumulative_cashflow_usd": -22102037.493311994,
+        "discount_factor": 0.5644739300537772,
+        "pv_cashflow_usd": 5197695.082860819
+      },
+      {
+        "year": 7,
+        "occupancy": 0.95,
+        "facility_kwh": 42073136.17509549,
+        "grid_kwh": 42073136.17509549,
+        "capacity_revenue_usd": 11554426.42164864,
+        "energy_recovery_usd": 5109103.756487205,
+        "electricity_usd": 5109103.756487205,
+        "fixed_opex_usd": 1351394.9031168001,
+        "maintenance_usd": 810836.9418700801,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 9392194.57666176,
+        "cumulative_cashflow_usd": -12709842.916650234,
+        "discount_factor": 0.5131581182307065,
+        "pv_cashflow_usd": 4819680.8950163955
+      },
+      {
+        "year": 8,
+        "occupancy": 0.95,
+        "facility_kwh": 42073136.17509549,
+        "grid_kwh": 42073136.17509549,
+        "capacity_revenue_usd": 11785514.950081613,
+        "energy_recovery_usd": 5211285.831616948,
+        "electricity_usd": 5211285.831616948,
+        "fixed_opex_usd": 1378422.8011791361,
+        "maintenance_usd": 827053.6807074816,
+        "replacement_usd": 3446057.00294784,
+        "residual_usd": 0,
+        "net_cashflow_usd": 6133981.465247155,
+        "cumulative_cashflow_usd": -6575861.451403079,
+        "discount_factor": 0.4665073802097331,
+        "pv_cashflow_usd": 2861547.6236075102
+      },
+      {
+        "year": 9,
+        "occupancy": 0.95,
+        "facility_kwh": 42073136.17509549,
+        "grid_kwh": 42073136.17509549,
+        "capacity_revenue_usd": 12021225.249083247,
+        "energy_recovery_usd": 5315511.548249288,
+        "electricity_usd": 5315511.548249288,
+        "fixed_opex_usd": 1405991.2572027189,
+        "maintenance_usd": 843594.7543216313,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 9771639.237558898,
+        "cumulative_cashflow_usd": 3195777.786155819,
+        "discount_factor": 0.42409761837248455,
+        "pv_cashflow_usd": 4144128.9282438494
+      },
+      {
+        "year": 10,
+        "occupancy": 0.95,
+        "facility_kwh": 42073136.17509549,
+        "grid_kwh": 42073136.17509549,
+        "capacity_revenue_usd": 12261649.754064912,
+        "energy_recovery_usd": 5421821.779214274,
+        "electricity_usd": 5421821.779214274,
+        "fixed_opex_usd": 1434111.0823467732,
+        "maintenance_usd": 860466.649408064,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 9967072.022310076,
+        "cumulative_cashflow_usd": 13162849.808465894,
+        "discount_factor": 0.3855432894295314,
+        "pv_cashflow_usd": 3842737.7334624785
+      },
+      {
+        "year": 11,
+        "occupancy": 0.95,
+        "facility_kwh": 42073136.17509549,
+        "grid_kwh": 42073136.17509549,
+        "capacity_revenue_usd": 12506882.74914621,
+        "energy_recovery_usd": 5530258.214798559,
+        "electricity_usd": 5530258.214798559,
+        "fixed_opex_usd": 1462793.3039937087,
+        "maintenance_usd": 877675.9823962253,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 10166413.462756278,
+        "cumulative_cashflow_usd": 23329263.271222174,
+        "discount_factor": 0.3504938994813922,
+        "pv_cashflow_usd": 3563265.898301571
+      },
+      {
+        "year": 12,
+        "occupancy": 0.95,
+        "facility_kwh": 42073136.17509549,
+        "grid_kwh": 42073136.17509549,
+        "capacity_revenue_usd": 12757020.404129134,
+        "energy_recovery_usd": 5640863.379094531,
+        "electricity_usd": 5640863.379094531,
+        "fixed_opex_usd": 1492049.170073583,
+        "maintenance_usd": 895229.5020441498,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 10369741.732011402,
+        "cumulative_cashflow_usd": 33699005.003233574,
+        "discount_factor": 0.3186308177103565,
+        "pv_cashflow_usd": 3304119.2875160016
+      },
+      {
+        "year": 13,
+        "occupancy": 0.95,
+        "facility_kwh": 42073136.17509549,
+        "grid_kwh": 42073136.17509549,
+        "capacity_revenue_usd": 13012160.812211717,
+        "energy_recovery_usd": 5753680.646676421,
+        "electricity_usd": 5753680.646676421,
+        "fixed_opex_usd": 1521890.1534750545,
+        "maintenance_usd": 913134.0920850327,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 10577136.566651627,
+        "cumulative_cashflow_usd": 44276141.5698852,
+        "discount_factor": 0.2896643797366877,
+        "pv_cashflow_usd": 3063819.702969382
+      },
+      {
+        "year": 14,
+        "occupancy": 0.95,
+        "facility_kwh": 42073136.17509549,
+        "grid_kwh": 42073136.17509549,
+        "capacity_revenue_usd": 13272404.028455952,
+        "energy_recovery_usd": 5868754.25960995,
+        "electricity_usd": 5868754.25960995,
+        "fixed_opex_usd": 1552327.956544556,
+        "maintenance_usd": 931396.7739267335,
+        "replacement_usd": 0,
+        "residual_usd": 0,
+        "net_cashflow_usd": 10788679.297984665,
+        "cumulative_cashflow_usd": 55064820.86786987,
+        "discount_factor": 0.26333125430607973,
+        "pv_cashflow_usd": 2840996.4518443374
+      },
+      {
+        "year": 15,
+        "occupancy": 0.95,
+        "facility_kwh": 42073136.17509549,
+        "grid_kwh": 42073136.17509549,
+        "capacity_revenue_usd": 13537852.10902507,
+        "energy_recovery_usd": 5986129.344802149,
+        "electricity_usd": 5986129.344802149,
+        "fixed_opex_usd": 1583374.515675447,
+        "maintenance_usd": 950024.7094052681,
+        "replacement_usd": 0,
+        "residual_usd": 9500247.094052682,
+        "net_cashflow_usd": 20504699.977997035,
+        "cumulative_cashflow_usd": 75569520.8458669,
+        "discount_factor": 0.23939204936916333,
+        "pv_cashflow_usd": 4908662.149432548
+      }
+    ]
+  },
+  "reliability": {
+    "exact_availability": 0.9986004,
+    "sample_availability": 0.99874,
+    "wilson_95_low": 0.998500141399368,
+    "wilson_95_high": 0.9989415408809653,
+    "samples": 100000,
+    "seed": 42,
+    "common_cause_unavailability": 0.001,
+    "boundary": "two aggregate paths plus one independent common event; no repair chronology"
+  },
+  "commissioning": [
+    {
+      "id": "IST-001",
+      "inputs": {},
+      "actual": {
+        "observed_source": "UTILITY",
+        "alarms": [],
+        "operator_review_required": false,
+        "writes_enabled": false
+      },
+      "expected_source": "UTILITY",
+      "expected_alarms": [],
+      "passed": true,
+      "evidence_level": "offline software scenario; not physical IST"
+    },
+    {
+      "id": "IST-002",
+      "inputs": {
+        "utility_ok": false
+      },
+      "actual": {
+        "observed_source": "BATTERY",
+        "alarms": [
+          "UTILITY_LOST"
+        ],
+        "operator_review_required": true,
+        "writes_enabled": false
+      },
+      "expected_source": "BATTERY",
+      "expected_alarms": [
+        "UTILITY_LOST"
+      ],
+      "passed": true,
+      "evidence_level": "offline software scenario; not physical IST"
+    },
+    {
+      "id": "IST-003",
+      "inputs": {
+        "utility_ok": false,
+        "generator_ready": true
+      },
+      "actual": {
+        "observed_source": "GENERATOR",
+        "alarms": [
+          "UTILITY_LOST"
+        ],
+        "operator_review_required": true,
+        "writes_enabled": false
+      },
+      "expected_source": "GENERATOR",
+      "expected_alarms": [
+        "UTILITY_LOST"
+      ],
+      "passed": true,
+      "evidence_level": "offline software scenario; not physical IST"
+    },
+    {
+      "id": "IST-004",
+      "inputs": {
+        "utility_ok": false,
+        "battery_available": false
+      },
+      "actual": {
+        "observed_source": "UNSERVED",
+        "alarms": [
+          "UTILITY_LOST"
+        ],
+        "operator_review_required": true,
+        "writes_enabled": false
+      },
+      "expected_source": "UNSERVED",
+      "expected_alarms": [
+        "UTILITY_LOST"
+      ],
+      "passed": true,
+      "evidence_level": "offline software scenario; not physical IST"
+    },
+    {
+      "id": "IST-005",
+      "inputs": {
+        "telemetry_fresh": false
+      },
+      "actual": {
+        "observed_source": "UNKNOWN",
+        "alarms": [
+          "TELEMETRY_STALE"
+        ],
+        "operator_review_required": true,
+        "writes_enabled": false
+      },
+      "expected_source": "UNKNOWN",
+      "expected_alarms": [
+        "TELEMETRY_STALE"
+      ],
+      "passed": true,
+      "evidence_level": "offline software scenario; not physical IST"
+    },
+    {
+      "id": "IST-006",
+      "inputs": {
+        "leak": true,
+        "supply_temp_c": 31
+      },
+      "actual": {
+        "observed_source": "UTILITY",
+        "alarms": [
+          "LIQUID_LEAK",
+          "HIGH_INLET_TEMPERATURE"
+        ],
+        "operator_review_required": true,
+        "writes_enabled": false
+      },
+      "expected_source": "UTILITY",
+      "expected_alarms": [
+        "LIQUID_LEAK",
+        "HIGH_INLET_TEMPERATURE"
+      ],
+      "passed": true,
+      "evidence_level": "offline software scenario; not physical IST"
+    }
+  ],
+  "sites": [
+    {
+      "site": "Site Alpha",
+      "eligible": true,
+      "score_100": 77.0,
+      "evidence": "Synthetic candidate; no real site investigation",
+      "grid_gate": "pass",
+      "hazard_gate": "pass"
+    },
+    {
+      "site": "Site Gamma",
+      "eligible": true,
+      "score_100": 73.0,
+      "evidence": "Synthetic candidate; no real site investigation",
+      "grid_gate": "pass",
+      "hazard_gate": "pass"
+    },
+    {
+      "site": "Site Beta",
+      "eligible": false,
+      "score_100": 80.0,
+      "evidence": "Synthetic candidate; fails assumed flood gate",
+      "grid_gate": "pass",
+      "hazard_gate": "fail"
+    }
+  ]
+}

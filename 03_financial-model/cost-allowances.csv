@@ -1,0 +1,7 @@
+cost_id,package,usd,basis,confidence
+C01,Land/site enabling,3000000,Author allowance; hypothetical site,low
+C02,Shell/structure/architectural,8000000,Author allowance; no quantities or contractor quote,low
+C03,Electrical facility systems,21000000,Author allowance; no vendor quotation,low
+C04,Mechanical cooling systems,9000000,Author allowance; no vendor quotation,low
+C05,Controls/fire/security,4000000,Author allowance; no detailed design,low
+C06,Design/management/commissioning,3000000,Author allowance; no service proposal,low
